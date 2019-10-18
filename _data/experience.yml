@@ -1,19 +1,13 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Universidade Federal de Alagoas (Federal University of Alagoas)
+  position: Scientific initiation researcher
+  duration: Jul, 2015 &mdash; Jul, 2018
+  summary: I worked as scientific researcher on the area of cloud computing systems<ul class="resume-item-list"><li>An approach to use genetic algorithms to optimize the configuration parameters on Hadoop based systems</li><li>A tool to extract data from the brazilian public health system focused on a lung cancer database. For this I used a Hadoop implementation in R language which goes by the name of Rhipe.</li><li>The creation and prototype implementation of a modular system and business model for cloud-based services.</li><li>The implementation of a</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+- company: Braskem S/A
+  position: Industrial instrumentation and control technician
+  duration:  
+  summary: 
