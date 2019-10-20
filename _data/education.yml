@@ -15,8 +15,6 @@
   uni: Universidade Federal de Alagoas (Federal University of Alagoas)
   year: 2019
   awards:
-    - award: Academic Excelence award for the publication 'Service quality assurance on PaaS cloud-computing category using Hadoop'
-    - award: Academic Excelence award for the publication 'Project and implementation of prototype to enable automatic paralelization of image processing on cloud-computing'
   summary: During the graduation I had a focus on data science and cloud computing processing, specially with Julia language leveraged by containers deployment via Docker.
 
 
