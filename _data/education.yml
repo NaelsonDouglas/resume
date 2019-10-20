@@ -1,13 +1,29 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Computer hardware and network maintenance techinician
+  uni: Microlins
+  year: Aug. 2007  &mdash; Dec. 2008
+  awards:     
+  summary: It was an introdutory course about general computer maintenance. It was of great help  on making my initial basis for understanding how computers work, thereafter, the knowledge aquired here help-me a lot later on when I started teaching Introduction to Computing in 2019 when I started monitoring the students at the begining of the graduation.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Electronics techinician diploma 
+  uni: Instituto Federal de Alagoas (Federal Institute of Alagoas)
+  year: 2012
+  award:
+  summary: It was a federal granted high school integrated course, ranging from 2009 to 2012. Besides the basic subjects of high school, I took classes where I learned how to use microcontrolers, eletricity, data transmission, projecting and assembling electronic chips and others.
+
+- degree: Computer Science undergraduation
+  uni: Universidade Federal de Alagoas (Federal University of Alagoas)
+  year: 2019
+  awards:
+    - award: Academic Excelence award for the publication 'Service quality assurance on PaaS cloud-computing category using Hadoop'
+    - award: Academic Excelence award for the publication 'Project and implementation of prototype to enable automatic paralelization of image processing on cloud-computing'
+  summary: During the graduation I had a focus on data science and cloud computing processing, specially with Julia language leveraged by containers deployment via Docker.
+
+
+- degree: Object-Oriented programing on SWIFT language
+  uni: IBM
+  year: Nov. 2016  &mdash; Dec. 2016
+  award:
+  summary: This was an introduction to SWIFT language course offered by IBM via the Hackatruck training project. At the end of the course I managed to implement a basic IOS APP by the name of MeuSUS github.com/NaelsonDouglas/MeuSUS
+
+
