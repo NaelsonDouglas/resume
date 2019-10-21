@@ -1,17 +1,17 @@
 # Jobs
-- company: Braskem S/A
-  position: Industrial instrumentation and control technician
-  duration:  Jul, 2013 &mdash; Jul, 2014
-  summary: My tasks here were the configuration and upkeep of the mechanical and electronic measurement tools that control the industrial process on a chemical plant. The final products were dichlorethane, chlorum and caustic soda, which are harzadous substances and my job was to garantee the full functionality of the indicators which showed the operators the current state of the pipelines, pumps and tanks in order to allow them to safely work.
-
-- company: Universidade Federal de Alagoas (Federal University of Alagoas)
-  position: Scientific initiation researcher
-  duration: Jul, 2015 &mdash; Jul, 2018
-  summary: I worked as scientific researcher on the areas of data science and cloud computing systems. During this period I had focus on four main projects as listed below:<ul class="resume-item-list"><li>An approach to use genetic algorithms to optimize the configuration parameters on Hadoop based systems</li><li>A tool to extract data from the brazilian public health system, focusing on a lung cancer database. For this I used a Hadoop implementation in R language which goes by the name of Rhipe.</li><li>The creation and prototype implementation of a modular system and business model for cloud-based services. For this I used a stack-like model where the service was subdivided by "modules" like Infraestructure provider, Billing management, Data Manager and the user interface. At the end we managed to have a prototype where one could couple ou decouple those modules and build cloud services the way they like, changing the billing model, storage servers or stuff like that just like using building blocks.</li><li>The implementation of the cloud distributed version of a delegated machine learning algorithm in Julia language. This work was done in partneship with Pontífica Universidad Católica de Valparaíso on Chile. They invited me to visit them and implement the code. To acomplish this goal I've managed to create a virtualization software layer to deploy cloud servers using Docker from within the Julia code implementation. With those servers online, I used them to simulate the independent nodes the algorithm takes leverage in order to perform it's distributed convolution </li></ul>
-
 
 - company: Universidade Federal de Alagoas (Federal University of Alagoas)
   position: Introduction to Computing monitor
   duration: Jan, 2019 &mdash; present
   summary: I am monitor on a 60 students class on the subject of Introduction to Computing. My tasks are helping the students on activities given by the professor, lecturing extra classes, specially on programming,(besides the ones lectured by the professor) and taking feedback from the class on the subject given in order to help the professor to improve the methodology;
 
+
+- company: Universidade Federal de Alagoas (Federal University of Alagoas)
+  position: Scientific initiation researcher
+  duration: Jul, 2015 &mdash; Jul, 2018
+  summary: I worked as scientific researcher on the areas of data science and cloud computing systems. During this period I had focus on four main projects as listed below:<ul class="resume-item-list"><li>An approach to use genetic algorithms to optimize the configuration parameters on Hadoop based systems</li><li>A tool to extract data from the brazilian public health system, focusing on a lung cancer database. For this I used a Hadoop implementation in R language which goes by the name of Rhipe.</li><li>The creation and prototype implementation of a modular system and business model for cloud-based services. For this I used a stack-like model where the service was subdivided by "modules" like Infraestructure provider, Billing management, Data Manager and the user interface. At the end we managed to have a prototype where one could couple ou decouple those modules and build cloud services the way they like, changing the billing model, storage servers or stuff like that just like using building blocks.</li><li>The implementation of the cloud distributed version of a delegated machine learning algorithm in Julia language. This work was done in partneship with Pontífica Universidad Católica de Valparaíso on Chile. They invited me to visit them and implement the code. To acomplish this goal I've managed to create a virtualization software layer to deploy cloud servers using Docker from within the Julia code implementation. With those servers online, I used them to simulate the independent nodes the algorithm takes leverage in order to perform it's distributed convolution </li></ul>
+
+- company: Braskem S/A
+  position: Industrial instrumentation and control technician
+  duration:  Jul, 2013 &mdash; Jul, 2014
+  summary: My tasks here were the configuration and upkeep of the mechanical and electronic measurement tools that control the industrial process on a chemical plant. The final products were dichlorethane, chlorum and caustic soda, which are harzadous substances and my job was to garantee the full functionality of the indicators which showed the operators the current state of the pipelines, pumps and tanks in order to allow them to safely work.
