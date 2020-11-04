@@ -1,7 +1,7 @@
 # Degree
 - degree: Informatics master degree (currently on course)
   uni: Universidade Federal de Alagoas (Federal University of Alagoas)
-  year: 2020
+  year: 2020 &mdash; present
   awards:
   summary: Postgraduation with the scientific research focused on software enginering on the field of software test, more preciselly on how to improve mutation tests generation using artificial inteligence.
 
@@ -17,7 +17,7 @@
   award:
   summary: This was an introduction to SWIFT language course offered by IBM via the Hackatruck training project. At the end of the course I managed to implement a basic IOS APP by the name of MeuSUS github.com/NaelsonDouglas/MeuSUS
 
-- degree: Electronics techinician diploma 
+- degree: Electronics techinician diploma
   uni: Instituto Federal de Alagoas (Federal Institute of Alagoas)
   year: 2012
   award:
@@ -28,5 +28,5 @@
 - degree: Computer hardware and network maintenance techinician
   uni: Microlins
   year: Aug. 2007  &mdash; Dec. 2008
-  awards:     
+  awards:
   summary: It was an introdutory course about general computer maintenance. It was of great help  on making my initial basis for understanding how computers work, thereafter, the knowledge aquired here help-me a lot later on when I started teaching Introduction to Computing in 2019 when I started monitoring the students at the begining of the graduation.

@@ -1,5 +1,10 @@
 # Jobs
 - company: Centro de Inovações EDGE
+  position: Data Scientist
+  duration: Aug, 2020 &mdash; present
+  summary: I work as data scientist, with special focus on natural language processing. The activities I play in this role involves the extraction of informations on customer reviews from live data. The processed data comes from various and heterogeneous sources, whose are fetched using crawlers or APIs, when they are available. After I get the data, I normalize them under a commom format and then I extract the usefull insights in order to present them for the final user application.
+
+- company: Centro de Inovações EDGE
   position: Back-end developer
   duration: Nov, 2019 &mdash; present
   summary: I work as back-end developer using the ASP.NET WEB environment. My role involves implementing APIs, configuring databases (SQLServer) using as ORM  the Entity Framework from the ASP.NET environment, configuring web routes and implementing software tests for those applications.
