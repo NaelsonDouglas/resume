@@ -23,7 +23,7 @@ resume_contact_address:         "Brazil, Alagoas, Rio Largo"
 resume_header_contact_info:     "Brazil, Alagoas, Rio Largo • 5700-000 • naelsondouglas@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Computer scientist and a Linux user with main interests in data science and machine learning. I am comfortable using Docker and programing in Python(pandas, matlibplot and so on), C# and Julia. I also have programing skills in Java, C and R, as also some pratice in 2D game development as hobbist. Altough I'm definetly not a visual artist, I have intermediate to advanced Photoshop skills.</p>"
+resume_header_intro: "<p>Computer scientist and Linux user with main interests in data science and machine learning. I am comfortable using Docker and programing in Python(pandas, matlibplot and so on) and Julia. On the scope of web services development, I have experience working with .NET MVC using C#, Django, CherryPy and Flask as also some pratice deploying Docker based systems on the Internet via Google Cloud. I have minor programing skills in Java, C and R, as also some pratice in 2D game development as hobbist. Altough I'm definetly not a visual artist, I have intermediate to advanced Photoshop skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
